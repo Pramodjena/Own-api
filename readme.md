@@ -18,3 +18,4 @@
 3. git push origin main
 
 - go to render.com and connect your repo.
+- api(https://own-api.onrender.com)

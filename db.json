@@ -1,3 +1,69 @@
 {
-  "todo": []
+  "todo": [
+    {
+      "task": "Bike Service",
+      "status": true,
+      "id": 3
+    },
+    {
+      "task": "Car Service",
+      "status": true,
+      "id": 4
+    },
+    {
+      "task": "Scuba Driving",
+      "status": true,
+      "id": 7
+    },
+    {
+      "task": "Mission Impossible",
+      "status": false,
+      "id": 8
+    },
+    {
+      "task": "Watching Cricket",
+      "status": false,
+      "id": 9
+    },
+    {
+      "task": "Dsa Practice",
+      "status": false,
+      "id": 11
+    },
+    {
+      "task": "Visit Kedarnath",
+      "status": false,
+      "id": 12
+    },
+    {
+      "task": "Buying Sweet",
+      "status": false,
+      "id": 13
+    },
+    {
+      "task": "Bike Service",
+      "status": false,
+      "id": 14
+    },
+    {
+      "task": "Due Bill",
+      "status": false,
+      "id": 15
+    },
+    {
+      "task": "Gulf Playing",
+      "status": false,
+      "id": 22
+    },
+    {
+      "task": "Coding Round",
+      "status": false,
+      "id": 23
+    },
+    {
+      "task": "Swimming Practice",
+      "status": false,
+      "id": 24
+    }
+  ]
 }

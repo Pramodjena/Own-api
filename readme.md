@@ -1,14 +1,14 @@
-**
+## Instal npm
 - `npm init -y`
-**
-  Install all the dependencies
+
+  ## Install all the dependencies
 - ` npm i json-server cors json-serve`
 
-** 
+
 - node index.js (start the server)
 
-- You can add end ponits for adding more data
-- You canm deploy it on render.com 
+- You can add end ponits for adding more data.
+- You can deploy it on render.com 
 - Follow these steps :
 
 - create a repo in github then clone it to local.

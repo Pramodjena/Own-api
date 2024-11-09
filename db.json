@@ -66,5 +66,7 @@
       "id": 24
     }
   ],
-  "users": []
+  "users": [
+    { "id": 1, "name": "Pramod Kumar Jena", "age": 25, "role": "SDE-I" }
+  ]
 }
